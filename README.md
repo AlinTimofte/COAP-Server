@@ -1,4 +1,12 @@
 # _CoAP_
+
+## Disclaimer
+
+This project was developed with the guidance of a university professor, as part of a semester-long course.  
+This repository is intended to showcase the final product of my work, rather than the development process itself.
+
+--- 
+
 CoAP (Constrained Application Protocol) este un 
 protocol de comunicație ce rulează peste protocolul 
 UDP/IP, fiind folosit în domenii cu resurse limitate 
